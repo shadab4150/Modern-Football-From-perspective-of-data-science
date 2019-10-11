@@ -9,6 +9,11 @@
 * I have used this data to:
 
 * Make **Explorative Data Analysis** about  games played.
+### Below is the goal distribution by month in Europe
+![kd](https://i.ibb.co/RyGdQbX/download.png)
+
+### Below is goal distribution by month in Top 5 European Leagues.
+![kd](https://i.ibb.co/XSJrYjc/Screenshot-479.png)
 * Build expected goals models and compare players on various attributes.
 * Training the model to Predict Players **Overall Rating**.
 ![kd](https://i.ibb.co/xsxFsnY/Eurpean-soccer-regression.png)
