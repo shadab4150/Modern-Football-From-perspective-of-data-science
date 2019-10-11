@@ -29,4 +29,5 @@
 ![kd](https://i.ibb.co/xsxFsnY/Eurpean-soccer-regression.png)
 
 * Which has **RMSE** of less than **< 1.5**
+* To see the complete project and notebooks. Click Here. [**Link**](https://github.com/shadab4150/Modern-Football-From-perspective-of-data-science)
 
