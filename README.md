@@ -1,5 +1,9 @@
 # Modern Football From perspective of data science
 * I have combined my love for football and data science to create exploratory analysis of the football  dataset found on kaggle using Python.
+
+* To see the complete project and notebooks. Click Here. [**Link**](https://github.com/shadab4150/Modern-Football-From-perspective-of-data-science)
+
+
 * The dataset on kaggle is organized in 3 files:
 
 * **events.csv** contains event data about each game. Text commentary was scraped from: bbc.com, espn.com and onefootball.com
