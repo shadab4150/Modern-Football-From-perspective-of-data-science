@@ -1,13 +1,17 @@
 # Modern Football From perspective of data science
->I have combined my love for football and data science to create exploratory analysis of the football  dataset found on kaggle using Python.
->The dataset on kaggle is organized in 3 files:
+> I have combined my love for football and data science to create exploratory analysis of the football  dataset found on kaggle using Python.
+* The dataset on kaggle is organized in 3 files:
 
->>events.csv contains event data about each game. Text commentary was scraped from: bbc.com, espn.com and onefootball.com
->>ginf.csv - contains metadata and market odds about each game. odds were collected from oddsportal.com
->>dictionary.txt contains a dictionary with the textual description of each categorical variable coded with integers
+>> **events.csv** contains event data about each game. Text commentary was scraped from: bbc.com, espn.com and onefootball.com
+>> **ginf.csv** - contains metadata and market odds about each game. odds were collected from oddsportal.com
+>> **dictionary.txt** contains a dictionary with the textual description of each categorical variable coded with integers
 
->I have used this data to:
+* I have used this data to:
 
->>Make visualizations about  games played.
->>Build expected goals models and compare players on various attributes.
-### Events dataset  was of size 175 Mb so can't be uploaded on github.
+>> Make **Explorative Data Analysis** about  games played.
+>> Build expected goals models and compare players on various attributes.
+>> Training the model to Predict Players **Overall Rating**.
+![kd](https://i.ibb.co/xsxFsnY/Eurpean-soccer-regression.png)
+
+>> Which has **RMSE** of less than **< 1.5**
+
