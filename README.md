@@ -9,13 +9,23 @@
 * I have used this data to:
 
 * Make **Explorative Data Analysis** about  games played.
-### Below is the goal distribution by month in Europe
+
+## Below is the goal distribution by month in Europe
+
 ![kd](https://i.ibb.co/RyGdQbX/download.png)
 
-### Below is goal distribution by month in Top 5 European Leagues.
+## Below is goal distribution by month in Top 5 European Leagues.
+
 ![kd](https://i.ibb.co/XSJrYjc/Screenshot-479.png)
+
+## Maximum Goals occur in 90th min of match.
+
+![kd](https://i.ibb.co/Brfg6FM/Screenshot-483.png)
+
 * Build expected goals models and compare players on various attributes.
-* Training the model to Predict Players **Overall Rating**.
+
+## Training the model to Predict Players **Overall Rating**.
+
 ![kd](https://i.ibb.co/xsxFsnY/Eurpean-soccer-regression.png)
 
 * Which has **RMSE** of less than **< 1.5**
