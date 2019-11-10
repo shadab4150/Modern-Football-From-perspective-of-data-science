@@ -4,7 +4,7 @@
 
 * I have combined my love for football and data science to create exploratory analysis of the football  dataset found on kaggle using Python.
 
-* To see the complete project and notebooks. Click Here. [**Link**](https://github.com/shadab4150/Modern-Football-From-perspective-of-data-science)
+* To see the complete project and notebooks. Click Here. [**Link**](https://github.com/shadab4150/Modern-Football-From-perspective-of-data-science/blob/master/Regression_Analysis_hyperparameter_tuning.ipynb)
 
 
 * The dataset on kaggle is organized in 3 files:
