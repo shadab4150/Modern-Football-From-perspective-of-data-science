@@ -1,0 +1,6 @@
+Scikit-learn
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Plotly-express==0.4.0
