@@ -1,8 +1,9 @@
-# Modern Football From perspective of data science
+# Modern Football From perspective of data science: Regression Models Comparison
 
 ## A Brief Project Report --->
 
-* I have combined my love for football and data science to create exploratory analysis of the football  dataset found on kaggle using Python.
+* I have combined my love for football and data science to create analysis of the football  dataset found on kaggle using Python.
+* It contains an extensive EDA and Regression Analysis,hyperparameter tuning, and various Regression Machine Learning Models Comaprison.
 
 * To see the complete project and notebooks. Click Here. [**Link**](https://shadab4150.github.io/Modern-Football-From-perspective-of-data-science/Regression_Analysis_hyperparameter_tuning.html)
 
